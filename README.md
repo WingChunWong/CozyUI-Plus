@@ -10,15 +10,13 @@ A clean, subtle high-definition UI overhaul covering vanilla interfaces and popu
 > [!TIP]
 > **Game Version:** ≥`1.20`
 
-### Based On
+[![CozyUI+ Description Video](description_image/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
+
+## Based On
 - **Fluent Emoji:** [GitHub](https://github.com/microsoft/fluentui-emoji)
 - **NotoSans:** [GitHub](https://github.com/notofonts/noto-cjk)
 
-[![CozyUI+ Description Video](description_image/video.mp4)](https://github.com/user-attachments/assets/5420f016-3171-4bba-889a-6df9e3b2f68d)
-
-***
-
-**Author:** 零雾〇五 Fogg05
+## Author: 零雾〇五 Fogg05
 
 **Social Media**
 - [Bilibili](https://space.bilibili.com/350715147)
@@ -54,7 +52,7 @@ If you enjoy my work, **please give this project a _Star_** in the upper right c
 
 ---
 
-## Key Features
+# Key Features
 
 ### 🧪 Brewing Stand Recipes
 All brewing recipes are visually displayed on the interface for easy reference.

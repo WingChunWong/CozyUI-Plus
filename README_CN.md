@@ -6,8 +6,8 @@
 <a href="https://modrinth.com/resourcepack/cozyui-plus/"><img src="description_image/title.gif" width="50%" /></a>
 
 ![GitHub Repo stars](https://img.shields.io/github/stars/Fogg05/CozyUI-Plus?style=for-the-badge&logo=github)
-![GitHub Release](https://img.shields.io/github/v/release/Fogg05/CozyUI-Plus?style=for-the-badge&logo=github)
-![Modrinth Downloads](https://img.shields.io/modrinth/dt/G5rf50k2?style=for-the-badge&logo=modrinth&label=modrinth%20latest)
+[![GitHub Release](https://img.shields.io/github/v/release/Fogg05/CozyUI-Plus?style=for-the-badge&logo=github)](https://github.com/Fogg05/CozyUI-Plus/releases/latest)
+[![Modrinth Downloads](https://img.shields.io/modrinth/dt/G5rf50k2?style=for-the-badge&logo=modrinth&label=modrinth%20latest)](https://modrinth.com/resourcepack/cozyui-plus/version)
 
 ***现已基于 GPL 协议开源 - 欢迎参与创作！***
 

@@ -1,7 +1,7 @@
 <img src="description_image/banner.jpg" width="80%" />
 <a href="https://modrinth.com/resourcepack/cozyui-plus/"><img src="description_image/title.gif" width="50%" /></a>
 
-## Now open source under GPL license - Contributions welcome!
+***Now open source under GPL license - Contributions welcome!***
 
 # CozyUI+
 
@@ -16,6 +16,8 @@ A clean, subtle high-definition UI overhaul covering vanilla interfaces and popu
 - **Fluent Emoji:** [GitHub](https://github.com/microsoft/fluentui-emoji)
 - **NotoSans:** [GitHub](https://github.com/notofonts/noto-cjk)
 
+***
+
 ## Author: 零雾〇五 Fogg05
 
 **Social Media**
@@ -25,6 +27,8 @@ A clean, subtle high-definition UI overhaul covering vanilla interfaces and popu
 
 If you enjoy my work, **please give this project a _Star_** in the upper right corner!  
 **Thank you for your support!**
+
+***
 
 ## Supported Mods
 
@@ -50,7 +54,7 @@ If you enjoy my work, **please give this project a _Star_** in the upper right c
 | Entity Features | [Modrinth](https://modrinth.com/mod/entitytexturefeatures) | 🔄Optional |
 | Overflowing Bars | [Modrinth](https://modrinth.com/mod/overflowing-bars) | 🔄Optional |
 
----
+***
 
 # Key Features
 
